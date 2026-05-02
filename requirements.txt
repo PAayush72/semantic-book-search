@@ -1,0 +1,5 @@
+fastembed
+psycopg2-binary
+pyspellchecker
+pypdf
+python-dotenv
